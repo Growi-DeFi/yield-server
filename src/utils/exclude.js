@@ -338,6 +338,7 @@ const excludeAdaptors = [
   'unizen',
   'koalaswap',
   'seamless-v2',
+  'mendi-finance',
 ];
 
 const excludePools = [
